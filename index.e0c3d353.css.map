@@ -1,0 +1,1 @@
+{"mappings":"ACCA","sources":["index.e0c3d353.css","src/stars.css"],"sourcesContent":[".stars {\n  display: flex;\n}\n/*# sourceMappingURL=index.e0c3d353.css.map */\n","/* add styles here */\n.stars {\n  display: flex;\n}\n"],"names":[],"version":3,"file":"index.e0c3d353.css.map"}
